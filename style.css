@@ -1,0 +1,19 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: darkblue;
+}
+
+div {
+  padding: 10px;
+  background-color: beige;
+}
+
+code {
+  color: red;
+  background-color: white;
+}
+/*# sourceMappingURL=style.css.map */
